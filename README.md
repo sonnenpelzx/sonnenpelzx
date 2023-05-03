@@ -1,6 +1,3 @@
-<div id = "header", align="center">
-  <img src = "https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" , width ="150"/>
-</div>
 
 ### 👋 Hi there, welcome to my GitHub portfolio 👋
 My name is Tim Linsel and I am a student in the bachelor program of information and communication technology at KTH Royal Institute of Technology
