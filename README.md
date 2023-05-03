@@ -39,8 +39,7 @@ Check out my experience and education from my LinkedIn:
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <a href="https://html.com/html5/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <a href="https://atom.io/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" title="Atom" **alt="Atom" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="Atom" **alt="Atom" width="40" height="40"/>
   <a href="https://www.arduino.cc/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>
   <a href="https://www.cprogramming.com/">
@@ -49,6 +48,10 @@ Check out my experience and education from my LinkedIn:
     <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack Workspace" **alt="Slack" width="40" height="40"/>
      <a href="https://reactnative.dev/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native" **alt="Slack" width="40" height="40"/>
+       <a href="https://www.android.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="React Native" **alt="Slack" width="40" height="40"/>
+    <a href="https://www.android.com/">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="React Native" **alt="Slack" width="40" height="40"/>
 
  
   ---
