@@ -50,8 +50,12 @@ Check out my experience and education from my LinkedIn:
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native" **alt="Slack" width="40" height="40"/>
        <a href="https://www.android.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="React Native" **alt="Slack" width="40" height="40"/>
-    <a href="https://www.android.com/">
- <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="React Native" **alt="Slack" width="40" height="40"/>
+    <a href="https://elixir-lang.org/">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/elixir/elixir-plain.svg" title="React Native" **alt="Slack" width="40" height="40"/>
+      <a href="https://kotlinlang.org/">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" title="React Native" **alt="Slack" width="40" height="40"/>
+ <a href="https://rubyonrails.org/">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" title="React Native" **alt="Slack" width="40" height="40"/>
 
  
   ---
