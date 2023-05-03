@@ -24,11 +24,10 @@ Check out my experience and education from my LinkedIn:
   
   ---
 👨‍💻 Some projects I have worked on:
-- [ID1018 -](https://www.kth.se/student/kurser/kurs/ID1018)[ Programming 1](https://gits-15.sys.kth.se/weichenc/ID1018)
-- [IS1200 -](https://www.kth.se/student/kurser/kurs/IS1200?l=en) [Computer Hardware Engineering]()
-- [ID1021 -](https://www.kth.se/student/kurser/kurs/ID1021) [Algorithms and Data Structures](https://github.com/ChickenTheSlayer/ID1206)
-- [IK1203 -](https://www.kth.se/student/kurser/kurs/IK1203?l=en) [Network and Communication]()
-- [ID1206 -](https://www.kth.se/student/kurser/kurs/ID1206) [Operating Systems](https://github.com/ChickenTheSlayer/ID1206)
+- [ Advent of Code Day 16 ](https://github.com/sonnenpelzx/AdventOfCode2022Day16)
+- [ Very Simply Neural Network in Java ](https://github.com/sonnenpelzx/simple-inefficient-neural-network-in-java)
+- [Should I Wear Shorts Today (web and android app)](https://github.com/ID2216group8)
+- [Wea(the)r it (react native app and ruby raily back-end)](https://github.com/SierraWeatherApp)
 
 
   ---
