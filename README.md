@@ -22,7 +22,7 @@ Check out my experience and education from my LinkedIn:
   ---
 👨‍💻 Some projects I have worked on:
 - [ Advent of Code Day 16 ](https://github.com/sonnenpelzx/AdventOfCode2022Day16)
-- [ Very Simply Neural Network in Java ](https://github.com/sonnenpelzx/simple-inefficient-neural-network-in-java)
+- [ E-Paper Display for Kostal Solar Inverter](https://github.com/sonnenpelzx/E-Paper-Display-for-Kostal-Solar-Inverter)
 - [Should I Wear Shorts Today (web and android app)](https://github.com/ID2216group8)
 - [Wea(the)r it (react native app and ruby raily back-end)](https://github.com/SierraWeatherApp)
 
