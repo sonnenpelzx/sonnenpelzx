@@ -15,9 +15,9 @@ Check out my experience and education from my LinkedIn:
  ---
 
 ### :smile: About Me:
-  - 🌱 I am currently in my second year studying IT at KTH
-  - 💬 I am experienced with working on projects in large teams
-  - ⚡ In my free time, I enjoy learning more about AI.
+  - 🌱 I am currently in my third year studying IT at KTH
+  - 💬 I am experienced with working on projects in larger teams
+  - ⚡ In my free time, I enjoy doing leetcode problems and tinkering with the ESP32.
   
   ---
 👨‍💻 Some projects I have worked on:
