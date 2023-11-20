@@ -15,7 +15,7 @@ Check out my experience and education from my LinkedIn:
  ---
 
 ### :smile: About Me:
-  - 🌱 I am currently in my third year studying IT at KTH
+  - 🌱 I am currently on exchange at HKUST in Hong Kong
   - 💬 I am experienced with working on projects in larger teams
   - ⚡ In my free time, I enjoy doing leetcode problems and tinkering with the ESP32.
   
