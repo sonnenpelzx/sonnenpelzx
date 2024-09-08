@@ -1,5 +1,5 @@
 
-### 👋 Hi there, welcome to my GitHub portfolio 👋
+### Tims Portfolio
 My name is Tim Linsel and I have recently graduated the bachelors of information and communication technology at KTH Royal Institute of Technology
 and am currently enrolled in the masters of computer and data science at the University of Heidelberg.
 
