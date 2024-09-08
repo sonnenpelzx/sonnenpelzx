@@ -1,8 +1,9 @@
 
 ### 👋 Hi there, welcome to my GitHub portfolio 👋
-My name is Tim Linsel and I am a student in the bachelor program of information and communication technology at KTH Royal Institute of Technology
+My name is Tim Linsel and I have recently graduated the bachelors of information and communication technology at KTH Royal Institute of Technology
+and am currently enrolled in the masters of computer and data science at the University of Heidelberg.
 
-Check out my experience and education from my LinkedIn:
+If you wanna learn more, check out my LinkedIn:
 
 
 <div id="badges">
@@ -15,9 +16,9 @@ Check out my experience and education from my LinkedIn:
  ---
 
 ### :smile: About Me:
-  - 🌱 I am currently on exchange at HKUST in Hong Kong
-  - 💬 I am experienced with working on projects in larger teams
-  - ⚡ In my free time, I enjoy doing leetcode problems and tinkering with the ESP32.
+  -  I was on exchange at HKUST in Hong Kong
+  -  I was an intern at Lufthansa Technik in Hamburg
+  -  In my free time, I enjoy tinkering with the ESP32.
   
   ---
 👨‍💻 Some projects I have worked on:
